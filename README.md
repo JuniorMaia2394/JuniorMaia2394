@@ -1,5 +1,4 @@
-# 👋 Opa! 
-# Eu sou o Junior Maia!
+# 👋 Opa! Eu sou o Junior Maia!
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JuniorMaia2394&show_icons=true&theme=tokyonight)
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorMaia2394&theme=tokyonight)

@@ -30,7 +30,7 @@
 
 ## ✉️ Contatos
 [![Linkedin Badge](https://img.shields.io/badge/-juniormaia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-maia-b8200515b/)](https://www.linkedin.com/in/junior-maia-b8200515b/)
-[![Gmail Badge](https://img.shields.io/badge/-maiajr2394@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maiajr2394@gmail.com)](mailto:maiajr2394@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-maiadevjr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maiadevjr@gmail.com)](mailto:maiadevjr@gmail.com)
 
     
           
